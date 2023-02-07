@@ -1,0 +1,28 @@
+Markdown docs:
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+
+GIT commands:
+-------------
+
+
+ git clone https://github.com/makgab/git-test.git
+
+ git init
+
+ git config --global user.name <username>
+ git config --global user.email <email@addr.tld>
+
+ git remote add origin https://github.com/username/git-test.git
+ git branch -M main
+
+ git status
+
+ git add .
+
+ git commit -m "Update info"
+
+ git push -u origin main
+ git push
+
+
